@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CampPerry", "CampPerry\CampPerry.sqlproj", "{4A2EF2CD-307F-4973-AB56-10BAC4F7C1C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		LocalDev|Any CPU = LocalDev|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ServerDev|Any CPU = ServerDev|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A2EF2CD-307F-4973-AB56-10BAC4F7C1C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2EF2CD-307F-4973-AB56-10BAC4F7C1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2EF2CD-307F-4973-AB56-10BAC4F7C1C4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4A2EF2CD-307F-4973-AB56-10BAC4F7C1C4}.LocalDev|Any CPU.ActiveCfg = LocalDev|Any CPU
+		{4A2EF2CD-307F-4973-AB56-10BAC4F7C1C4}.LocalDev|Any CPU.Build.0 = LocalDev|Any CPU
+		{4A2EF2CD-307F-4973-AB56-10BAC4F7C1C4}.LocalDev|Any CPU.Deploy.0 = LocalDev|Any CPU
+		{4A2EF2CD-307F-4973-AB56-10BAC4F7C1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2EF2CD-307F-4973-AB56-10BAC4F7C1C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2EF2CD-307F-4973-AB56-10BAC4F7C1C4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4A2EF2CD-307F-4973-AB56-10BAC4F7C1C4}.ServerDev|Any CPU.ActiveCfg = ServerDev|Any CPU
+		{4A2EF2CD-307F-4973-AB56-10BAC4F7C1C4}.ServerDev|Any CPU.Build.0 = ServerDev|Any CPU
+		{4A2EF2CD-307F-4973-AB56-10BAC4F7C1C4}.ServerDev|Any CPU.Deploy.0 = ServerDev|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
